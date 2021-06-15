@@ -6,7 +6,7 @@
    ```
 1. Initialize chezmoi.
    ```
-   $ bin/chezmoi init https://github.com/tbonfort/dotfiles.git
+   $ $HOME/.local/bin/chezmoi init https://github.com/tbonfort/dotfiles.git
    ```
 1. (Optional) Check the diff.
    ```
