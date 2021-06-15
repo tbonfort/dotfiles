@@ -1,0 +1,9 @@
+# some more ls aliases
+alias ls="ls --color"
+alias l="nnn -deH"
+alias ll="ls -l"
+alias la='ls -a'
+
+alias upd="sudo apt update && sudo apt dist-upgrade && sudo apt autoremove"
+alias rm="rm -i"
+alias battery="echo sudo /opt/dell/dcc/cctk --primarybatterycfg=custom:50-85 --ValSetupPwd=xxx \#Standard, Express , PrimAcUse , Adaptive , Custom"

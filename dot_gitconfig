@@ -1,0 +1,11 @@
+[url "git@code.webfactory.intelligence-airbusds.com:"]
+	insteadOf = https://code.webfactory.intelligence-airbusds.com/
+[alias]
+	st = status
+[color]
+	ui = true
+[user]
+	email = thomas.bonfort@airbus.com
+	name = Thomas Bonfort
+[pull]
+	ff = only

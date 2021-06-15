@@ -1,0 +1,3 @@
+i3-wm.binding.exit_app: q
+focus_follows_mouse: yes
+gnome.terminal.font: JetBrains Mono 11
