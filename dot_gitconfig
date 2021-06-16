@@ -1,5 +1,9 @@
 [url "git@code.webfactory.intelligence-airbusds.com:"]
 	insteadOf = https://code.webfactory.intelligence-airbusds.com/
+[url "git@github.com:airbusgeo/"]
+	insteadOf = https://github.com/airbusgeo/
+[url "git@github.com:tbonfort/"]
+	insteadOf = https://github.com/tbonfort/
 [alias]
 	st = status
 [color]
