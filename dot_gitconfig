@@ -9,3 +9,5 @@
 	name = Thomas Bonfort
 [pull]
 	ff = only
+[core]
+	excludesfile = /home/tbonfort/.gitignore_global
