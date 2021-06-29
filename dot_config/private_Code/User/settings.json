@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 12,
+    "editor.tabSize": 3,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "go.toolsEnvVars": {
+        "PKG_CONFIG_PATH":"/opt/lib/pkgconfig",
+        "LD_LIBRARY_PATH":"/opt/lib"
+    },
+    "editor.acceptSuggestionOnEnter": "off"
+}
