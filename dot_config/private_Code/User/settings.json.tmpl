@@ -1,7 +1,11 @@
 {
     "workbench.colorTheme": "Visual Studio Dark",
     "editor.fontFamily": "'JetBrains Mono'",
+{{ if (eq .chezmoi.hostname "xps13") }}
+    "editor.fontSize": 14,
+{{ else }}
     "editor.fontSize": 12,
+{{ end }}
     "editor.tabSize": 3,
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
